@@ -20,7 +20,7 @@ Olá! Sou Catarine, estudante de Desenvolvimento de Sistemas na rede SESI/SENAI.
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomazzcatarine&layout=compact&langs_count=10&theme=shadow_red"/>
 </div>
 
-<h2>☎️ ˚˖⋆ ── Entre em Conato!</h2>
+<h2>☎️ ˚˖⋆ ── Entre em Contato!</h2>
 <p>🌐Linkedin: [https://www.linkedin.com/in/catarine-tomaz/]</p>
 <p>📧Email: tomazcatarine@gmail.com</p>
 <p>Portfólio: [https://portfolio-qcl8.onrender.com/]</p>
