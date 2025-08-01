@@ -19,6 +19,6 @@ Olá! Sou Catarine, estudante de Desenvolvimento de Sistemas na rede SESI/SENAI.
 ### ✦︎ Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" width="280em" src="https://github-readme-stats.vercel.app/api?username=tomazzcatarine&show_icons=true&theme=shadow_red">
-  <img height="180em" width="280em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomazzcatarine&layout=compact&langs_count=10&theme=shadow_red"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tomazzcatarine&show_icons=true&theme=shadow_red">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomazzcatarine&layout=compact&langs_count=10&theme=shadow_red"/>
 </div>
