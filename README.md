@@ -1,6 +1,6 @@
 <h1 align="left">Olá, eu sou a Catarine</h1>
 <p align="center">
-  <img src="https://github.com/tomazzcatarine/tomazzcatarine/blob/main/assets/github-header-image.png" alt="banner" width="400"/>
+  <img src="https://github.com/tomazzcatarine/tomazzcatarine/blob/main/assets/github-header-image.png" alt="banner" width="800"/>
 </p>
 
 ---
