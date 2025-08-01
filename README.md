@@ -11,5 +11,13 @@ Olá! Sou Catarine, estudante de Desenvolvimento de Sistemas na rede SESI/SENAI.
 
 ---
 
-## Tecnologias e Programação 
+## ✦︎ Tecnologias
 [![Skills](https://skillicons.dev/icons?i=js,html,css,py,sqlite,vscode)](https://skillicons.dev)
+
+### ✦︎ Estatísticas
+
+<div align="center">
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomazzcatarine)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
+---
