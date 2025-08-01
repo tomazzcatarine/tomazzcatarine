@@ -1,7 +1,4 @@
 <h1 align="left">🍁˚˖⋆ ── Olá, eu sou a Catarine</h1>
-<p align="center">
-  <img src="https://github.com/tomazzcatarine/tomazzcatarine/blob/main/assets/github-header-image.png" alt="banner" width="800"/>
-</p>
 
 ---
 
@@ -22,3 +19,8 @@ Olá! Sou Catarine, estudante de Desenvolvimento de Sistemas na rede SESI/SENAI.
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tomazzcatarine&show_icons=true&theme=shadow_red">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomazzcatarine&layout=compact&langs_count=10&theme=shadow_red"/>
 </div>
+
+<h2>☎️ ˚˖⋆ ── Entre em Conato!</h2>
+<p>🌐Linkedin: [https://www.linkedin.com/in/catarine-tomaz/]</p>
+<p>📧Email: tomazcatarine@gmail.com</p>
+<p>Portfólio: [https://portfolio-qcl8.onrender.com/]</p>
